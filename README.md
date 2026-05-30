@@ -2,13 +2,6 @@
 
 A clean and simple ToDo application built with **React.js** that helps you manage your daily tasks with due dates.
 
-## 🚀 Live Demo
-https://agent-6a1aef4edff975cd--dazzling-kangaroo-454363.netlify.app
-
-## 📸 Screenshots
-<img width="1536" height="354" alt="image" src="https://github.com/user-attachments/assets/3d431190-f80d-41fa-abcf-af0b7f53c70b" />
-<img width="1540" height="423" alt="image" src="https://github.com/user-attachments/assets/98932771-d518-4d04-ab6b-b54efee226f5" />
-
 ## ✨ Features
 - ✅ Add new tasks with a due date
 - 🗑️ Delete tasks when done
@@ -55,6 +48,9 @@ todo-app/
 │   └── index.js
 ├── .gitignore
 └── package.json
+
+## 🚀 Live Demo
+https://agent-6a1aef4edff975cd--dazzling-kangaroo-454363.netlify.app
 
 ## 🙋‍♀️ Author
 **Avishi**
